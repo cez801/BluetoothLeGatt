@@ -1,2 +1,22 @@
 
 *.class
+
+bin/AndroidManifest.xml
+
+bin/BluetoothLeGatt.apk
+
+bin/res/drawable-hdpi/ic_launcher.png
+
+bin/classes.dex
+
+bin/res/drawable-mdpi/ic_launcher.png
+
+bin/res/drawable-xhdpi/ic_launcher.png
+
+bin/res/drawable-xxhdpi/ic_launcher.png
+
+bin/resources.ap_
+
+gen/com/example/bluetooth/le/BuildConfig.java
+
+gen/com/example/bluetooth/le/R.java
