@@ -19,7 +19,8 @@ package com.example.bluetooth.le;
 import java.util.HashMap;
 
 /**
-This class includes a small subset of standard GATT attributes for demonstration purposes.The changes should only go to Test-Changes...
+This class includes a small subset of standard GATT attributes for demonstration purposes.The changes should only go to Test-Changes... DEFINITELY THIS TIME....
+
  */
 public class SampleGattAttributes {
     private static HashMap<String, String> attributes = new HashMap();
