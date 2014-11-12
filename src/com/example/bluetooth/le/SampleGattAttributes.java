@@ -21,6 +21,7 @@ import java.util.HashMap;
 /**
 This class includes a small subset of standard GATT attributes for demonstration purposes.
 Additional LE attributes can be added in here - to use names instead of GUIDs
+And this is change 2...
  */
 public class SampleGattAttributes {
     private static HashMap<String, String> attributes = new HashMap();
